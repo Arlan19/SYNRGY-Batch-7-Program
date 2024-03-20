@@ -1,0 +1,20 @@
+==========================
+BinarFud
+==========================
+
+Terimakasih sudah memesan
+di BinarFud
+
+Dibawah ini adalah pesanan Anda
+
+Nasi + Ayam	6	108,000
+Nasi Goreng	2	30,000
+--------------------------------+
+Total		2	138,000
+
+Pembayaran: BinarCash
+
+==========================
+Simpan struk ini sebagai
+bukti pembayaran
+==========================
