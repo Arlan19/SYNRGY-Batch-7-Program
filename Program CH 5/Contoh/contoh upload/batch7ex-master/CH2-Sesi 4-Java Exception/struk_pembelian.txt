@@ -1,0 +1,9 @@
+Detail Pesanan:
+Menu: Mie Goreng
+Jumlah: 2
+Total Harga: Rp 40000.0
+
+Detail Pesanan:
+Menu: Nasi Goreng
+Jumlah: 1
+Total Harga: Rp 25000.0

@@ -1,0 +1,1212 @@
+[2024-05-22 00:00:26.026][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 00:00:26.026][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 00:00:30.030][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716310830035 sessioncount 0
+[2024-05-22 00:00:30.030][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 00:00:56.056][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 00:00:56.056][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 00:01:26.026][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 00:01:26.026][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 00:01:30.030][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716310890097 sessioncount 0
+[2024-05-22 00:01:30.030][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 00:01:56.056][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 00:01:56.056][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 00:02:26.026][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 00:02:26.026][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 00:02:30.030][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716310950135 sessioncount 0
+[2024-05-22 00:02:30.030][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 00:02:56.056][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 00:02:56.056][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 00:03:26.026][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 00:03:26.026][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 00:03:30.030][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716311010205 sessioncount 0
+[2024-05-22 00:03:30.030][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 00:03:56.056][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 00:03:56.056][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 00:04:26.026][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 00:04:26.026][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 00:04:30.030][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716311070244 sessioncount 0
+[2024-05-22 00:04:30.030][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 00:04:56.056][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 00:04:56.056][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:43:12.012][WARN ][com.zaxxer.hikari.pool.HikariPool$HouseKeeper][HikariPool-1 housekeeper][788]HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7h38m21s396ms896µs100ns).
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][342]HikariPool-1 - Add connection elided, waiting 0, queue 1
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][342]HikariPool-1 - Add connection elided, waiting 0, queue 1
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][342]HikariPool-1 - Add connection elided, waiting 0, queue 1
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][342]HikariPool-1 - Add connection elided, waiting 0, queue 1
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][342]HikariPool-1 - Add connection elided, waiting 0, queue 1
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][342]HikariPool-1 - Add connection elided, waiting 0, queue 1
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][342]HikariPool-1 - Add connection elided, waiting 0, queue 1
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][342]HikariPool-1 - Add connection elided, waiting 0, queue 1
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@63fe3477: (connection has passed maxLifetime)
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@4bd9f068: (connection has passed maxLifetime)
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 connection closer][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@9ea0e98: (connection has passed maxLifetime)
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 connection closer][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@dd59b7d: (connection has passed maxLifetime)
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 connection closer][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@6d39c678: (connection has passed maxLifetime)
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 connection closer][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@72df00d: (connection has passed maxLifetime)
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 connection closer][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@130f4497: (connection has passed maxLifetime)
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 connection closer][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@41ef1590: (connection has passed maxLifetime)
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 connection closer][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@5629628e: (connection has passed maxLifetime)
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 connection closer][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@48b2a1b4: (connection has passed maxLifetime)
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 connection closer][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:43:12.012][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716338592385 sessioncount 0
+[2024-05-22 07:43:12.012][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 26 expired sessions: 0
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@387d59de
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@36bab0a1
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@328532ae
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 07:43:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7787ba9a
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 07:43:12.012][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 07:43:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2566ae1d
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 07:43:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@46ba2da8
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 07:43:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5db16793
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 07:43:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@17a845d5
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 07:43:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 07:43:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7ae077b
+[2024-05-22 07:43:14.014][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 07:43:14.014][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 07:43:14.014][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 07:43:14.014][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 07:43:14.014][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 07:43:14.014][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 07:43:14.014][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 07:43:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@106ead4b
+[2024-05-22 07:43:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:43:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:44:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:44:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:44:12.012][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716338652673 sessioncount 0
+[2024-05-22 07:44:12.012][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 07:44:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:44:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:45:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:45:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:45:12.012][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716338712736 sessioncount 0
+[2024-05-22 07:45:12.012][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 07:45:41.041][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-Acceptor][173]Counting up[http-nio-8080-Acceptor] latch=1
+[2024-05-22 07:45:41.041][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-Acceptor][173]Counting up[http-nio-8080-Acceptor] latch=2
+[2024-05-22 07:45:41.041][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Processing socket [org.apache.tomcat.util.net.NioChannel@68709ccc:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63652]] with status [OPEN_READ]
+[2024-05-22 07:45:41.041][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Found processor [null] for socket [org.apache.tomcat.util.net.NioChannel@68709ccc:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63652]]
+[2024-05-22 07:45:41.041][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Popped processor [org.apache.coyote.http11.Http11Processor@6edf5462] from cache
+[2024-05-22 07:45:41.041][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Before fill(): parsingHeader: [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position(): [0], byteBuffer.limit(): [0], end: [308]
+[2024-05-22 07:45:41.041][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@4e7d3348:org.apache.tomcat.util.net.NioChannel@68709ccc:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63652]], Read from buffer: [0]
+[2024-05-22 07:45:41.041][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@4e7d3348:org.apache.tomcat.util.net.NioChannel@68709ccc:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63652]], Read direct from socket: [747]
+[2024-05-22 07:45:41.041][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Received [GET /api/login HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: JSESSIONID=F1A0F7C592B28A980E9BEBFA4D25E1D7
+
+]
+[2024-05-22 07:45:41.041][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Cookies: Parsing b[]: JSESSIONID=F1A0F7C592B28A980E9BEBFA4D25E1D7
+[2024-05-22 07:45:42.042][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173] Requested cookie session id is F1A0F7C592B28A980E9BEBFA4D25E1D7
+[2024-05-22 07:45:42.042][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Security checking request GET /api/login
+[2024-05-22 07:45:42.042][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]  No applicable constraints defined
+[2024-05-22 07:45:42.042][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Not subject to any constraint
+[2024-05-22 07:45:42.042][DEBUG][org.springframework.security.web.FilterChainProxy][http-nio-8080-exec-1][218]Securing GET /login
+[2024-05-22 07:45:42.042][DEBUG][org.springframework.security.web.context.SecurityContextPersistenceFilter][http-nio-8080-exec-1][104]Set SecurityContextHolder to empty SecurityContext
+[2024-05-22 07:45:42.042][DEBUG][org.springframework.web.servlet.handler.AbstractHandlerMapping][http-nio-8080-exec-1][522]Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+[2024-05-22 07:45:42.042][DEBUG][org.springframework.security.oauth2.provider.authentication.BearerTokenExtractor][http-nio-8080-exec-1][58]Token not found in headers. Trying request parameters.
+[2024-05-22 07:45:42.042][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Set encoding to UTF-8
+[2024-05-22 07:45:42.042][DEBUG][org.springframework.security.oauth2.provider.authentication.BearerTokenExtractor][http-nio-8080-exec-1][61]Token not found in request parameters.  Not an OAuth2 request.
+[2024-05-22 07:45:42.042][DEBUG][org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter][http-nio-8080-exec-1][147]No token in request, will continue chain.
+[2024-05-22 07:45:42.042][DEBUG][org.springframework.security.web.context.SecurityContextPersistenceFilter][http-nio-8080-exec-1][120]Cleared SecurityContextHolder to complete request
+[2024-05-22 07:45:42.042][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Before fill(): parsingHeader: [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position(): [0], byteBuffer.limit(): [0], end: [747]
+[2024-05-22 07:45:42.042][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@4e7d3348:org.apache.tomcat.util.net.NioChannel@68709ccc:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63652]], Read from buffer: [0]
+[2024-05-22 07:45:42.042][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@4e7d3348:org.apache.tomcat.util.net.NioChannel@68709ccc:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63652]], Read direct from socket: [0]
+[2024-05-22 07:45:42.042][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Received []
+[2024-05-22 07:45:42.042][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@4e7d3348:org.apache.tomcat.util.net.NioChannel@68709ccc:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63652]], Status in: [OPEN_READ], State out: [OPEN]
+[2024-05-22 07:45:42.042][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Pushed Processor [org.apache.coyote.http11.Http11Processor@6edf5462]
+[2024-05-22 07:45:42.042][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@4e7d3348:org.apache.tomcat.util.net.NioChannel@68709ccc:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63652]]
+[2024-05-22 07:45:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:45:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-3][173]Processing socket [org.apache.tomcat.util.net.NioChannel@68709ccc:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63652]] with status [OPEN_READ]
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][173]Processing socket [org.apache.tomcat.util.net.NioChannel@3ff50958:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63653]] with status [OPEN_READ]
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-3][173]Found processor [null] for socket [org.apache.tomcat.util.net.NioChannel@68709ccc:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63652]]
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-3][173]Popped processor [org.apache.coyote.http11.Http11Processor@6edf5462] from cache
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][173]Found processor [null] for socket [org.apache.tomcat.util.net.NioChannel@3ff50958:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63653]]
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-3][173]Before fill(): parsingHeader: [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position(): [0], byteBuffer.limit(): [0], end: [747]
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][173]Popped processor [org.apache.coyote.http11.Http11Processor@30dbf77c] from cache
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-3][173]Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@4e7d3348:org.apache.tomcat.util.net.NioChannel@68709ccc:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63652]], Read from buffer: [0]
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][173]Before fill(): parsingHeader: [true], parsingRequestLine: [true], parsingRequestLinePhase: [0], parsingRequestLineStart: [0], byteBuffer.position(): [0], byteBuffer.limit(): [0], end: [0]
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][173]Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@2dbef35e:org.apache.tomcat.util.net.NioChannel@3ff50958:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63653]], Read from buffer: [0]
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-3][175]Error parsing HTTP request header
+java.io.EOFException: null
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.fillReadBuffer(NioEndpoint.java:1347)
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.read(NioEndpoint.java:1234)
+	at org.apache.coyote.http11.Http11InputBuffer.fill(Http11InputBuffer.java:785)
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:348)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:263)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-3][175]Error state [CLOSE_CONNECTION_NOW] reported while processing request
+java.io.EOFException: null
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.fillReadBuffer(NioEndpoint.java:1347)
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.read(NioEndpoint.java:1234)
+	at org.apache.coyote.http11.Http11InputBuffer.fill(Http11InputBuffer.java:785)
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:348)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:263)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-3][173]Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@4e7d3348:org.apache.tomcat.util.net.NioChannel@68709ccc:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63652]], Status in: [OPEN_READ], State out: [CLOSED]
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][175]Error parsing HTTP request header
+java.io.EOFException: null
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.fillReadBuffer(NioEndpoint.java:1347)
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.read(NioEndpoint.java:1234)
+	at org.apache.coyote.http11.Http11InputBuffer.fill(Http11InputBuffer.java:785)
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:348)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:263)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-3][173]Pushed Processor [org.apache.coyote.http11.Http11Processor@6edf5462]
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][175]Error state [CLOSE_CONNECTION_NOW] reported while processing request
+java.io.EOFException: null
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.fillReadBuffer(NioEndpoint.java:1347)
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.read(NioEndpoint.java:1234)
+	at org.apache.coyote.http11.Http11InputBuffer.fill(Http11InputBuffer.java:785)
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:348)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:263)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][173]Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@2dbef35e:org.apache.tomcat.util.net.NioChannel@3ff50958:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63653]], Status in: [OPEN_READ], State out: [CLOSED]
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][173]Pushed Processor [org.apache.coyote.http11.Http11Processor@30dbf77c]
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][173]Counting down[http-nio-8080-exec-2] latch=1
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][173]Calling [org.apache.tomcat.util.net.NioEndpoint@3becb8f1].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@2dbef35e:org.apache.tomcat.util.net.NioChannel@3ff50958:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63653]])
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-3][173]Counting down[http-nio-8080-exec-3] latch=2
+[2024-05-22 07:46:04.004][DEBUG][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-3][173]Calling [org.apache.tomcat.util.net.NioEndpoint@3becb8f1].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@4e7d3348:org.apache.tomcat.util.net.NioChannel@68709ccc:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8080 remote=/[0:0:0:0:0:0:0:1]:63652]])
+[2024-05-22 07:46:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:46:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:46:12.012][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716338772807 sessioncount 0
+[2024-05-22 07:46:12.012][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 07:46:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:46:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:47:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:47:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:47:12.012][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716338832866 sessioncount 0
+[2024-05-22 07:47:12.012][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 07:47:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:47:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:48:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:48:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:48:12.012][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716338892898 sessioncount 0
+[2024-05-22 07:48:12.012][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 07:48:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:48:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:49:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:49:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:49:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716338953364 sessioncount 0
+[2024-05-22 07:49:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 07:49:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:49:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:50:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:50:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:50:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716339013411 sessioncount 0
+[2024-05-22 07:50:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 07:50:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:50:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:51:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:51:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:51:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716339073476 sessioncount 0
+[2024-05-22 07:51:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 07:51:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:51:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:52:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:52:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:52:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716339133536 sessioncount 0
+[2024-05-22 07:52:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 07:52:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:52:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:53:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:53:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:53:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716339193579 sessioncount 0
+[2024-05-22 07:53:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 07:53:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:53:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:54:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:54:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:54:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716339253614 sessioncount 0
+[2024-05-22 07:54:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 07:54:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:54:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:55:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:55:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:55:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716339313664 sessioncount 0
+[2024-05-22 07:55:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 07:55:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:55:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:56:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:56:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:56:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716339373705 sessioncount 0
+[2024-05-22 07:56:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 07:56:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:56:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:57:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:57:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:57:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716339433745 sessioncount 0
+[2024-05-22 07:57:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 07:57:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:57:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:58:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:58:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:58:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716339493816 sessioncount 0
+[2024-05-22 07:58:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 07:58:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:58:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:59:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:59:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 07:59:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716339553863 sessioncount 0
+[2024-05-22 07:59:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 07:59:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 07:59:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:00:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:00:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:00:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716339613909 sessioncount 0
+[2024-05-22 08:00:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:00:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:00:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:01:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:01:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:01:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716339673955 sessioncount 0
+[2024-05-22 08:01:13.013][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:01:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:01:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:02:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:02:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:02:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716339734005 sessioncount 0
+[2024-05-22 08:02:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:02:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:02:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:03:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:03:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:03:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716339794040 sessioncount 0
+[2024-05-22 08:03:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:03:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:03:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:04:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:04:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:04:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716339854094 sessioncount 0
+[2024-05-22 08:04:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:04:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:04:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:05:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:05:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:05:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716339914140 sessioncount 0
+[2024-05-22 08:05:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:05:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:05:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:06:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:06:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:06:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716339974180 sessioncount 0
+[2024-05-22 08:06:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:06:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:06:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:07:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:07:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:07:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716340034248 sessioncount 0
+[2024-05-22 08:07:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:07:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:07:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:08:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:08:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:08:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716340094301 sessioncount 0
+[2024-05-22 08:08:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:08:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:08:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:09:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:09:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:09:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716340154363 sessioncount 0
+[2024-05-22 08:09:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:09:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:09:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:10:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:10:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:10:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716340214398 sessioncount 0
+[2024-05-22 08:10:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:10:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:10:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:11:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:11:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:11:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716340274461 sessioncount 0
+[2024-05-22 08:11:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:11:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:11:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:12:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:12:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:12:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716340334508 sessioncount 0
+[2024-05-22 08:12:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:12:30.030][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@5db16793: (connection has passed maxLifetime)
+[2024-05-22 08:12:30.030][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:12:30.030][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:12:30.030][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:12:30.030][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:12:30.030][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:12:30.030][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:12:30.030][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:12:30.030][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@26d71678
+[2024-05-22 08:12:31.031][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@387d59de: (connection has passed maxLifetime)
+[2024-05-22 08:12:31.031][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:12:31.031][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:12:31.031][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:12:31.031][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:12:31.031][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:12:31.031][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:12:31.031][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:12:31.031][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2810fcd2
+[2024-05-22 08:12:32.032][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@328532ae: (connection has passed maxLifetime)
+[2024-05-22 08:12:32.032][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:12:32.032][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:12:32.032][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:12:32.032][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:12:32.032][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:12:32.032][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:12:32.032][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:12:32.032][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2c2f7d08
+[2024-05-22 08:12:42.042][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@7787ba9a: (connection has passed maxLifetime)
+[2024-05-22 08:12:42.042][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:12:42.042][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:12:42.042][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:12:42.042][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:12:42.042][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:12:42.042][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:12:42.042][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:12:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6d45de50
+[2024-05-22 08:12:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:12:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:12:45.045][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@17a845d5: (connection has passed maxLifetime)
+[2024-05-22 08:12:45.045][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:12:45.045][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:12:45.045][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:12:45.045][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:12:45.045][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:12:45.045][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:12:45.045][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:12:45.045][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@63822d88
+[2024-05-22 08:12:56.056][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@2566ae1d: (connection has passed maxLifetime)
+[2024-05-22 08:12:56.056][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:12:56.056][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:12:56.056][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:12:56.056][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:12:56.056][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:12:56.056][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:12:56.056][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:12:56.056][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@36c46a4b
+[2024-05-22 08:12:58.058][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@36bab0a1: (connection has passed maxLifetime)
+[2024-05-22 08:12:58.058][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:12:58.058][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:12:58.058][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:12:58.058][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:12:58.058][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:12:58.058][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:12:58.058][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:12:58.058][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@380392e3
+[2024-05-22 08:13:04.004][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@46ba2da8: (connection has passed maxLifetime)
+[2024-05-22 08:13:04.004][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:13:04.004][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:13:04.004][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:13:04.004][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:13:04.004][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:13:04.004][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:13:04.004][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:13:04.004][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1a5146d1
+[2024-05-22 08:13:06.006][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@7ae077b: (connection has passed maxLifetime)
+[2024-05-22 08:13:06.006][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:13:06.006][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:13:06.006][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:13:06.006][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:13:06.006][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:13:06.006][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:13:06.006][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:13:07.007][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1496abeb
+[2024-05-22 08:13:08.008][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@106ead4b: (connection has passed maxLifetime)
+[2024-05-22 08:13:08.008][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:13:08.008][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:13:08.008][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:13:08.008][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:13:08.008][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:13:08.008][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:13:08.008][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:13:08.008][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@10a92da1
+[2024-05-22 08:13:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:13:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:13:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716340394573 sessioncount 0
+[2024-05-22 08:13:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:13:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:13:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:14:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:14:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:14:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716340454624 sessioncount 0
+[2024-05-22 08:14:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:14:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:14:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:15:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:15:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:15:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716340514683 sessioncount 0
+[2024-05-22 08:15:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:15:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:15:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:16:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:16:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:16:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716340574725 sessioncount 0
+[2024-05-22 08:16:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:16:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:16:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:17:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:17:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:17:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716340634773 sessioncount 0
+[2024-05-22 08:17:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:17:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:17:42.042][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:18:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:18:12.012][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:18:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716340694821 sessioncount 0
+[2024-05-22 08:18:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:18:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:18:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:19:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:19:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:19:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716340754879 sessioncount 0
+[2024-05-22 08:19:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:19:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:19:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:20:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:20:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:20:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716340814931 sessioncount 0
+[2024-05-22 08:20:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:20:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:20:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:21:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:21:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:21:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716340874973 sessioncount 0
+[2024-05-22 08:21:14.014][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:21:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:21:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:22:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:22:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:22:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716340935008 sessioncount 0
+[2024-05-22 08:22:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:22:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:22:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:23:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:23:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:23:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716340995053 sessioncount 0
+[2024-05-22 08:23:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:23:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:23:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:24:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:24:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:24:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716341055102 sessioncount 0
+[2024-05-22 08:24:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:24:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:24:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:25:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:25:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:25:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716341115153 sessioncount 0
+[2024-05-22 08:25:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:25:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:25:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:26:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:26:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:26:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716341175208 sessioncount 0
+[2024-05-22 08:26:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:26:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:26:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:27:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:27:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:27:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716341235260 sessioncount 0
+[2024-05-22 08:27:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:27:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:27:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:28:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:28:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:28:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716341295296 sessioncount 0
+[2024-05-22 08:28:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:28:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:28:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:29:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:29:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:29:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716341355344 sessioncount 0
+[2024-05-22 08:29:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:29:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:29:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:30:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:30:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:30:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716341415387 sessioncount 0
+[2024-05-22 08:30:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:30:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:30:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:31:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:31:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:31:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716341475443 sessioncount 0
+[2024-05-22 08:31:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:31:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:31:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:32:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:32:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:32:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716341535508 sessioncount 0
+[2024-05-22 08:32:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:32:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:32:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:33:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:33:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:33:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716341595558 sessioncount 0
+[2024-05-22 08:33:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:33:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:33:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:34:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:34:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:34:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716341655607 sessioncount 0
+[2024-05-22 08:34:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:34:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:34:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:35:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:35:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:35:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716341715659 sessioncount 0
+[2024-05-22 08:35:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:35:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:35:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:36:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:36:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:36:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716341775678 sessioncount 0
+[2024-05-22 08:36:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:36:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:36:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:37:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:37:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:37:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716341835726 sessioncount 0
+[2024-05-22 08:37:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:37:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:37:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:38:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:38:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:38:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716341895770 sessioncount 0
+[2024-05-22 08:38:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:38:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:38:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:39:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:39:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:39:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716341955833 sessioncount 0
+[2024-05-22 08:39:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:39:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:39:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:40:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:40:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:40:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716342015896 sessioncount 0
+[2024-05-22 08:40:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:40:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:40:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:41:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:41:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:41:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716342075941 sessioncount 0
+[2024-05-22 08:41:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:41:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:41:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:41:57.057][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@26d71678: (connection has passed maxLifetime)
+[2024-05-22 08:41:57.057][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:41:57.057][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:41:57.057][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:41:57.057][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:41:57.057][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:41:57.057][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:41:57.057][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:41:57.057][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@45578941
+[2024-05-22 08:42:11.011][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@2c2f7d08: (connection has passed maxLifetime)
+[2024-05-22 08:42:11.011][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:42:11.011][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:42:11.011][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:42:11.011][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:42:11.011][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:42:11.011][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:42:11.011][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:42:11.011][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1f4f8fc7
+[2024-05-22 08:42:13.013][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@6d45de50: (connection has passed maxLifetime)
+[2024-05-22 08:42:13.013][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:42:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:42:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:42:13.013][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:42:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:42:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:42:13.013][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:42:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1188625e
+[2024-05-22 08:42:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:42:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:42:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716342135977 sessioncount 0
+[2024-05-22 08:42:15.015][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:42:23.023][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@2810fcd2: (connection has passed maxLifetime)
+[2024-05-22 08:42:23.023][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:42:23.023][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:42:23.023][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:42:23.023][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:42:23.023][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:42:23.023][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:42:23.023][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:42:23.023][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6df08385
+[2024-05-22 08:42:24.024][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@63822d88: (connection has passed maxLifetime)
+[2024-05-22 08:42:24.024][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:42:24.024][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:42:24.024][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:42:24.024][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:42:24.024][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:42:24.024][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:42:24.024][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:42:24.024][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6337604b
+[2024-05-22 08:42:30.030][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@1496abeb: (connection has passed maxLifetime)
+[2024-05-22 08:42:30.030][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:42:30.030][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:42:30.030][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:42:30.030][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:42:30.030][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:42:30.030][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:42:30.030][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:42:30.030][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@44dd765a
+[2024-05-22 08:42:34.034][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@10a92da1: (connection has passed maxLifetime)
+[2024-05-22 08:42:34.034][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:42:34.034][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:42:34.034][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:42:34.034][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:42:34.034][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:42:34.034][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:42:34.034][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:42:34.034][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4a1a90b1
+[2024-05-22 08:42:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:42:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:42:47.047][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@380392e3: (connection has passed maxLifetime)
+[2024-05-22 08:42:47.047][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:42:47.047][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:42:47.047][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:42:47.047][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:42:47.047][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:42:47.047][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:42:47.047][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:42:47.047][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@49a92a1b
+[2024-05-22 08:42:53.053][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@36c46a4b: (connection has passed maxLifetime)
+[2024-05-22 08:42:53.053][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:42:53.053][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:42:53.053][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:42:53.053][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:42:53.053][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:42:53.053][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:42:53.053][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:42:53.053][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@30bd4a32
+[2024-05-22 08:43:02.002][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@1a5146d1: (connection has passed maxLifetime)
+[2024-05-22 08:43:02.002][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 08:43:02.002][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 08:43:02.002][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 08:43:02.002][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 08:43:02.002][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 08:43:02.002][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 08:43:02.002][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 08:43:02.002][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6264ee01
+[2024-05-22 08:43:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:43:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:43:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716342196024 sessioncount 0
+[2024-05-22 08:43:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:43:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:43:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:44:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:44:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:44:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716342256083 sessioncount 0
+[2024-05-22 08:44:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:44:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:44:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:45:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:45:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:45:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716342316131 sessioncount 0
+[2024-05-22 08:45:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:45:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:45:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:46:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:46:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:46:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716342376185 sessioncount 0
+[2024-05-22 08:46:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:46:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:46:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:47:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:47:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:47:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716342436243 sessioncount 0
+[2024-05-22 08:47:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:47:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:47:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:48:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:48:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:48:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716342496278 sessioncount 0
+[2024-05-22 08:48:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:48:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:48:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:49:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:49:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:49:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716342556325 sessioncount 0
+[2024-05-22 08:49:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:49:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:49:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:50:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:50:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:50:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716342616381 sessioncount 0
+[2024-05-22 08:50:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:50:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:50:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:51:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:51:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:51:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716342676432 sessioncount 0
+[2024-05-22 08:51:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:51:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:51:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:52:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:52:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:52:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716342736479 sessioncount 0
+[2024-05-22 08:52:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:52:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:52:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:53:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:53:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:53:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716342796528 sessioncount 0
+[2024-05-22 08:53:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:53:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:53:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:54:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:54:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:54:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716342856586 sessioncount 0
+[2024-05-22 08:54:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:54:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:54:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:55:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:55:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:55:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716342916639 sessioncount 0
+[2024-05-22 08:55:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:55:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:55:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:56:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:56:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:56:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716342976696 sessioncount 0
+[2024-05-22 08:56:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:56:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:56:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:57:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:57:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:57:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716343036728 sessioncount 0
+[2024-05-22 08:57:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:57:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:57:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:58:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:58:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:58:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716343096773 sessioncount 0
+[2024-05-22 08:58:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 08:58:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:58:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:59:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:59:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 08:59:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716343156821 sessioncount 0
+[2024-05-22 08:59:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 08:59:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 08:59:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:00:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:00:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:00:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716343216886 sessioncount 0
+[2024-05-22 09:00:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:00:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:00:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:01:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:01:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:01:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716343276935 sessioncount 0
+[2024-05-22 09:01:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:01:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:01:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:02:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:02:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:02:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716343336982 sessioncount 0
+[2024-05-22 09:02:16.016][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:02:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:02:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:03:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:03:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:03:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716343397029 sessioncount 0
+[2024-05-22 09:03:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:03:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:03:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:04:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:04:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:04:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716343457075 sessioncount 0
+[2024-05-22 09:04:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:04:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:04:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:05:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:05:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:05:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716343517109 sessioncount 0
+[2024-05-22 09:05:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:05:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:05:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:06:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:06:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:06:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716343577147 sessioncount 0
+[2024-05-22 09:06:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:06:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:06:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:07:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:07:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:07:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716343637183 sessioncount 0
+[2024-05-22 09:07:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:07:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:07:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:08:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:08:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:08:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716343697244 sessioncount 0
+[2024-05-22 09:08:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 09:08:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:08:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:09:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:09:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:09:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716343757293 sessioncount 0
+[2024-05-22 09:09:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:09:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:09:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:10:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:10:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:10:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716343817315 sessioncount 0
+[2024-05-22 09:10:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:10:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:10:43.043][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:11:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:11:13.013][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:11:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716343877384 sessioncount 0
+[2024-05-22 09:11:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:11:29.029][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@1f4f8fc7: (connection has passed maxLifetime)
+[2024-05-22 09:11:29.029][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 09:11:29.029][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 09:11:29.029][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 09:11:29.029][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 09:11:29.029][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 09:11:29.029][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 09:11:29.029][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 09:11:29.029][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@795d55ec
+[2024-05-22 09:11:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:11:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:11:52.052][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@44dd765a: (connection has passed maxLifetime)
+[2024-05-22 09:11:52.052][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 09:11:52.052][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 09:11:52.052][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 09:11:52.052][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 09:11:52.052][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 09:11:52.052][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 09:11:52.052][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 09:11:52.052][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6a1b909d
+[2024-05-22 09:11:53.053][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@45578941: (connection has passed maxLifetime)
+[2024-05-22 09:11:53.053][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 09:11:53.053][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 09:11:53.053][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 09:11:53.053][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 09:11:53.053][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 09:11:53.053][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 09:11:53.053][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 09:11:53.053][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@64dc63ae
+[2024-05-22 09:11:55.055][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@4a1a90b1: (connection has passed maxLifetime)
+[2024-05-22 09:11:55.055][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 09:11:55.055][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 09:11:55.055][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 09:11:55.055][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 09:11:55.055][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 09:11:55.055][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 09:11:55.055][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 09:11:56.056][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@60e3fbed
+[2024-05-22 09:12:06.006][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@6df08385: (connection has passed maxLifetime)
+[2024-05-22 09:12:06.006][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 09:12:06.006][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 09:12:06.006][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 09:12:06.006][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 09:12:06.006][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 09:12:06.006][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 09:12:06.006][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 09:12:06.006][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@48f9f392
+[2024-05-22 09:12:11.011][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@1188625e: (connection has passed maxLifetime)
+[2024-05-22 09:12:11.011][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 09:12:11.011][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 09:12:11.011][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 09:12:11.011][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 09:12:11.011][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 09:12:11.011][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 09:12:11.011][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 09:12:11.011][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@463e14fd
+[2024-05-22 09:12:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:12:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:12:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716343937436 sessioncount 0
+[2024-05-22 09:12:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:12:20.020][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@6337604b: (connection has passed maxLifetime)
+[2024-05-22 09:12:20.020][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 09:12:20.020][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 09:12:20.020][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 09:12:20.020][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 09:12:20.020][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 09:12:20.020][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 09:12:20.020][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 09:12:20.020][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4160aa4e
+[2024-05-22 09:12:24.024][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 09:12:24.024][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@30bd4a32: (connection has passed maxLifetime)
+[2024-05-22 09:12:24.024][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 09:12:24.024][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 09:12:24.024][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 09:12:24.024][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 09:12:24.024][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 09:12:24.024][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 09:12:24.024][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4fa75c12
+[2024-05-22 09:12:32.032][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@6264ee01: (connection has passed maxLifetime)
+[2024-05-22 09:12:32.032][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 09:12:32.032][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 09:12:32.032][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 09:12:32.032][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 09:12:32.032][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 09:12:32.032][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 09:12:32.032][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 09:12:32.032][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@48623f12
+[2024-05-22 09:12:37.037][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@49a92a1b: (connection has passed maxLifetime)
+[2024-05-22 09:12:37.037][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][249]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-22 09:12:37.037][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][209]PostgreSQL JDBC Driver 42.3.8
+[2024-05-22 09:12:37.037][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1137]  setDefaultFetchSize = 0
+[2024-05-22 09:12:37.037][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1146]  setPrepareThreshold = 5
+[2024-05-22 09:12:37.037][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][213]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-22 09:12:37.037][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][156]Receive Buffer Size is 65,536
+[2024-05-22 09:12:37.037][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][158]Send Buffer Size is 65,536
+[2024-05-22 09:12:37.037][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][729]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@41159489
+[2024-05-22 09:12:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:12:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:13:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:13:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:13:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716343997492 sessioncount 0
+[2024-05-22 09:13:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:13:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:13:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:14:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:14:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:14:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716344057537 sessioncount 0
+[2024-05-22 09:14:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:14:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:14:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:15:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:15:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:15:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716344117587 sessioncount 0
+[2024-05-22 09:15:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:15:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:15:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:16:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:16:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:16:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716344177634 sessioncount 0
+[2024-05-22 09:16:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:16:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:16:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:17:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:17:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:17:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716344237673 sessioncount 0
+[2024-05-22 09:17:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:17:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:17:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:18:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:18:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:18:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716344297728 sessioncount 0
+[2024-05-22 09:18:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:18:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:18:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:19:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:19:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:19:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716344357789 sessioncount 0
+[2024-05-22 09:19:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:19:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:19:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:20:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:20:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:20:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716344417836 sessioncount 0
+[2024-05-22 09:20:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 09:20:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:20:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:21:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:21:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:21:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716344477874 sessioncount 0
+[2024-05-22 09:21:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:21:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:21:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:22:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:22:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:22:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716344537913 sessioncount 0
+[2024-05-22 09:22:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 1 expired sessions: 0
+[2024-05-22 09:22:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:22:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:23:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:23:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:23:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716344597970 sessioncount 0
+[2024-05-22 09:23:17.017][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:23:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:23:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:24:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:24:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:24:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716344658027 sessioncount 0
+[2024-05-22 09:24:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:24:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:24:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:25:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:25:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:25:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716344718076 sessioncount 0
+[2024-05-22 09:25:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:25:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:25:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:26:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:26:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:26:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716344778106 sessioncount 0
+[2024-05-22 09:26:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:26:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:26:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:27:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:27:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:27:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716344838171 sessioncount 0
+[2024-05-22 09:27:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:27:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:27:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:28:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:28:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:28:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716344898241 sessioncount 0
+[2024-05-22 09:28:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:28:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:28:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:29:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:29:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:29:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716344958301 sessioncount 0
+[2024-05-22 09:29:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:29:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:29:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:30:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:30:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:30:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]Start expire sessions StandardManager at 1716345018359 sessioncount 0
+[2024-05-22 09:30:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-1][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:30:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:30:44.044][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:31:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][421]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:31:14.014][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][518]HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2024-05-22 09:31:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]Start expire sessions StandardManager at 1716345078400 sessioncount 0
+[2024-05-22 09:31:18.018][DEBUG][org.apache.juli.logging.DirectJDKLog][Catalina-utility-2][173]End expire sessions StandardManager processingTime 0 expired sessions: 0
+[2024-05-22 09:31:38.038][DEBUG][org.springframework.boot.availability.ApplicationAvailabilityBean][SpringApplicationShutdownHook][77]Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+[2024-05-22 09:31:38.038][DEBUG][org.springframework.context.support.AbstractApplicationContext][SpringApplicationShutdownHook][1052]Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@71ec42de, started on Tue May 21 21:24:18 WIB 2024
+[2024-05-22 09:31:38.038][DEBUG][org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup][SpringApplicationShutdownHook][366]Stopping beans in phase 2147483647
+[2024-05-22 09:31:38.038][DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][SpringApplicationShutdownHook][239]Bean 'webServerGracefulShutdown' completed its stop procedure
+[2024-05-22 09:31:38.038][DEBUG][org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup][SpringApplicationShutdownHook][366]Stopping beans in phase 2147483646
+[2024-05-22 09:31:38.038][DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][SpringApplicationShutdownHook][239]Bean 'webServerStartStop' completed its stop procedure
+[2024-05-22 09:31:38.038][DEBUG][org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup][SpringApplicationShutdownHook][366]Stopping beans in phase -2147483647
+[2024-05-22 09:31:38.038][DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][SpringApplicationShutdownHook][239]Bean 'springBootLoggingLifecycle' completed its stop procedure
+[2024-05-22 09:31:38.038][DEBUG][org.springframework.scheduling.concurrent.ExecutorConfigurationSupport][SpringApplicationShutdownHook][224]Shutting down ExecutorService 'applicationTaskExecutor'
+[2024-05-22 09:31:38.038][INFO ][org.springframework.orm.jpa.AbstractEntityManagerFactoryBean][SpringApplicationShutdownHook][651]Closing JPA EntityManagerFactory for persistence unit 'default'
+[2024-05-22 09:31:38.038][DEBUG][org.hibernate.internal.SessionFactoryImpl][SpringApplicationShutdownHook][821]HHH000031: Closing
+[2024-05-22 09:31:38.038][DEBUG][org.hibernate.type.spi.TypeConfiguration$Scope][SpringApplicationShutdownHook][345]Un-scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration$Scope@1f72758b] from SessionFactory [org.hibernate.internal.SessionFactoryImpl@130e022e]
+[2024-05-22 09:31:38.038][DEBUG][org.hibernate.service.internal.AbstractServiceRegistryImpl][SpringApplicationShutdownHook][428]Implicitly destroying ServiceRegistry on de-registration of all child ServiceRegistries
+[2024-05-22 09:31:38.038][DEBUG][org.hibernate.boot.registry.internal.BootstrapServiceRegistryImpl][SpringApplicationShutdownHook][295]Implicitly destroying Boot-strap registry on de-registration of all child ServiceRegistries
+[2024-05-22 09:31:38.038][INFO ][com.zaxxer.hikari.HikariDataSource][SpringApplicationShutdownHook][350]HikariPool-1 - Shutdown initiated...
+[2024-05-22 09:31:38.038][DEBUG][com.zaxxer.hikari.pool.HikariPool][SpringApplicationShutdownHook][421]HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-22 09:31:38.038][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@795d55ec: (connection evicted)
+[2024-05-22 09:31:38.038][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@6a1b909d: (connection evicted)
+[2024-05-22 09:31:38.038][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@64dc63ae: (connection evicted)
+[2024-05-22 09:31:38.038][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@60e3fbed: (connection evicted)
+[2024-05-22 09:31:38.038][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@48f9f392: (connection evicted)
+[2024-05-22 09:31:38.038][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@463e14fd: (connection evicted)
+[2024-05-22 09:31:38.038][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@4160aa4e: (connection evicted)
+[2024-05-22 09:31:38.038][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@4fa75c12: (connection evicted)
+[2024-05-22 09:31:38.038][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@48623f12: (connection evicted)
+[2024-05-22 09:31:38.038][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][134]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@41159489: (connection evicted)
+[2024-05-22 09:31:38.038][DEBUG][com.zaxxer.hikari.pool.HikariPool][SpringApplicationShutdownHook][421]HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+[2024-05-22 09:31:38.038][INFO ][com.zaxxer.hikari.HikariDataSource][SpringApplicationShutdownHook][352]HikariPool-1 - Shutdown completed.

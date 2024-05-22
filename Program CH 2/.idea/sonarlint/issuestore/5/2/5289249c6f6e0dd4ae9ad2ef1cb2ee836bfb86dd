@@ -1,0 +1,17 @@
+
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å€û£
+c
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(èáÁÏüÿÿÿÿ
+h
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Çµí‘
+1
+java:S36269"Remove this redundant jump.(ÉŠ©ƒ
+E	java:S106"+Replace this use of System.out by a logger.(…£û·üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(º‹ş÷
+E	java:S106"+Replace this use of System.out by a logger.(…£û·üÿÿÿÿ
+J
+java:S2864""4Iterate over the "entrySet" instead of the "keySet".(¦¿½
+@	java:S106+"+Replace this use of System.out by a logger.(¾õëØ
+E	java:S1065"+Replace this use of System.out by a logger.(Íï½üÿÿÿÿ
+@	java:S106;"+Replace this use of System.out by a logger.(º‹ş÷

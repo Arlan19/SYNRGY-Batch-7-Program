@@ -1,0 +1,20 @@
+==========================
+BinarFud
+==========================
+
+Terimakasih sudah memesan
+di BinarFud
+
+Dibawah ini adalah pesanan anda
+
+Optional[Nasi + Ayam]	2	Rp. 36000.0
+Optional[Mie Goreng]	1	Rp. 13000.0
+---------------------------+
+Total			49000.0
+
+Pembayaran: card
+
+==========================
+Simpan struk ini sebagai
+bukti pembayaran
+==========================

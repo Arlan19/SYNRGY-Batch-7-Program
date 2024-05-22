@@ -1,0 +1,13 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€™æÃ8¤æ¿¡ê1J$dae70400-4da9-4f4f-a364-6a63124ec067
+“
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Æé‘Ò8½²‹¢ê1J$29947cd1-a04b-49da-b094-be8643232fe7
+’
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(é¢ÒE8½²‹¢ê1J$476e31e4-2f9c-49f8-b006-e5a1525e91f3
+r	java:S106
+"+Replace this use of System.out by a logger.(àñæùÿÿÿÿ8¯æ¿¡ê1J$10dc3cb0-06eb-4ab3-aa7f-d693bcffdd78
+m	java:S106"+Replace this use of System.out by a logger.(—äÛÎ8¯æ¿¡ê1J$c63cffdc-003a-44a5-9aad-2652a34f7940
+m	java:S106"+Replace this use of System.out by a logger.(Æé‘Ò8°æ¿¡ê1J$1caf402f-5479-442e-ad06-e76839c5380f
+m	java:S106"+Replace this use of System.out by a logger.(‘•ñÏ8î‹À¡ê1J$8aab1c74-3e05-42e0-95ce-5af590f07445
+r	java:S106"+Replace this use of System.out by a logger.(ûğ—Äûÿÿÿÿ8ï‹À¡ê1J$2af3226a-593f-4ae7-95a8-ffbec8339038
+l	java:S106"+Replace this use of System.out by a logger.(é¢ÒE8ï‹À¡ê1J$16f389cc-1ac1-4011-9dc2-5423e2a6aeb0

@@ -1,0 +1,6 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É£û¯J$b10bc134-e017-48b2-b581-f20064ad7391
+>
+java:S1165"!Make this "response" field final.(ş»»8Ÿ°±è1
+G
+java:S1948"*Make "response" transient or serializable.(ş»»8¤°±è1

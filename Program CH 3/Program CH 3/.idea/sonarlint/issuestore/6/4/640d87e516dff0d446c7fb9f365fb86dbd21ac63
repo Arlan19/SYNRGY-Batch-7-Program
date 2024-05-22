@@ -1,0 +1,6 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΗªΠJ$6b06f1e9-8274-43a3-99ab-853cf91fbf15
+
+java:S5993"9Change the visibility of this constructor to "protected".(©΅‰¥όÿÿÿÿ8ϋχ•¥κ1J$a6b7e802-30ca-4f1d-ade5-4bdf48dd5ad2
+~
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(΄Ύφωÿÿÿÿ8¨–¥κ1J$59b18e27-aab7-4716-9c4f-0c771a9cbb9b

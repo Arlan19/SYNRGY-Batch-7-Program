@@ -1,0 +1,4 @@
+Detail Pesanan:
+Menu: Mie Goreng
+Jumlah: 2
+Total Harga: Rp 40000.0

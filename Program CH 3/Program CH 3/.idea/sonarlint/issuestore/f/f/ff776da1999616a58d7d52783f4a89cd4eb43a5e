@@ -1,0 +1,21 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û–ş´ûÿÿÿÿ8ÎÆ´öê1J$8f6b6b89-44e2-47fe-b5d8-06f10facabb8
+|
+java:S1854"9Remove this useless assignment to local variable "value".(µØçÈ8ÔÆ´öê1J$f32ca8ef-b270-4ba3-90d9-5114625888fd
+t
+java:S1602",Remove useless curly braces around statement(ª×Ûşıÿÿÿÿ8×Æ´öê1J$2f492153-c35b-4593-a065-28f68ca8d277
+r	java:S106"+Replace this use of System.out by a logger.(½¦ÿÿÿÿÿ8ØÆ´öê1J$5bca653e-742e-4cae-afb6-5f1e807485d0
+m
+java:S1481"*Remove this unused "value" local variable.(µØçÈ8ÚÆ´öê1J$72823557-cb08-4510-a0ef-f30f0ce99ef7
+”
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(Ü½é‰8ÛÆ´öê1J$f401020e-317d-4b66-be91-5cb2e5f851dc
+r	java:S106"+Replace this use of System.out by a logger.(èÆôııÿÿÿÿ8ÜÆ´öê1J$b655b678-5cee-4d3d-bae3-9453b553e15b
+w
+java:S1611"4Remove the parentheses around the "myname" parameter(øú®Õ8†ä¿öê1J$b5019339-e1bc-44e7-94fc-392a66e19a0b
+ƒ
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(øú®Õ8ÏÛ¾öê1J$8075e00b-785c-4a23-8346-6c9abfbfc214
+m	java:S106"+Replace this use of System.out by a logger.(øú®Õ8ÏÛ¾öê1J$d42b8107-c229-4e32-8d80-9d585eeef827
+m	java:S106 "+Replace this use of System.out by a logger.(ÉßÔš8ø•çöê1J$8a45485a-7e0f-43fd-a128-7971b396e82a
+t
+java:S1602!",Remove useless curly braces around statement(îûä³ûÿÿÿÿ8ø•çöê1J$ff67ff6d-f49d-4081-86c5-54e96dd4a56e
+m	java:S106""+Replace this use of System.out by a logger.(°¾¬Ç8ù•çöê1J$86545b9d-fc22-4414-885a-55287dfb5d24

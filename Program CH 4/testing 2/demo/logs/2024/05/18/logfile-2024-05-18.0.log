@@ -1,0 +1,182 @@
+[2024-05-18 23:39:43,176][WARN ][com.zaxxer.hikari.pool.HikariPool$HouseKeeper][HikariPool-1 housekeeper][804]HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1d33m6s905ms270µs900ns).
+[2024-05-18 23:39:43,450][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:39:43,451][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:39:43,454][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][132]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@1fb1f31e: (connection has passed maxLifetime)
+[2024-05-18 23:39:43,454][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][335]HikariPool-1 - Add connection elided, waiting=0, adders pending/running=1
+[2024-05-18 23:39:43,455][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][285]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-18 23:39:43,455][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][132]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@11761e98: (connection has passed maxLifetime)
+[2024-05-18 23:39:43,455][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][249]PostgreSQL JDBC Driver 42.6.2
+[2024-05-18 23:39:43,456][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1228]  setDefaultFetchSize = 0
+[2024-05-18 23:39:43,456][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1237]  setPrepareThreshold = 5
+[2024-05-18 23:39:43,456][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][132]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@602bbb09: (connection has passed maxLifetime)
+[2024-05-18 23:39:43,457][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][236]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-18 23:39:43,455][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][335]HikariPool-1 - Add connection elided, waiting=0, adders pending/running=1
+[2024-05-18 23:39:43,458][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][132]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@2d759e2e: (connection has passed maxLifetime)
+[2024-05-18 23:39:43,458][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][335]HikariPool-1 - Add connection elided, waiting=0, adders pending/running=4
+[2024-05-18 23:39:43,458][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][335]HikariPool-1 - Add connection elided, waiting=0, adders pending/running=4
+[2024-05-18 23:39:43,459][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][335]HikariPool-1 - Add connection elided, waiting=0, adders pending/running=4
+[2024-05-18 23:39:43,459][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][335]HikariPool-1 - Add connection elided, waiting=0, adders pending/running=4
+[2024-05-18 23:39:43,459][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][335]HikariPool-1 - Add connection elided, waiting=0, adders pending/running=5
+[2024-05-18 23:39:43,459][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][132]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@6eec48a4: (connection has passed maxLifetime)
+[2024-05-18 23:39:43,459][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][335]HikariPool-1 - Add connection elided, waiting=0, adders pending/running=5
+[2024-05-18 23:39:43,460][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][335]HikariPool-1 - Add connection elided, waiting=0, adders pending/running=5
+[2024-05-18 23:39:43,460][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][179]Receive Buffer Size is 65,536
+[2024-05-18 23:39:43,460][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][132]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@54cb3cb2: (connection has passed maxLifetime)
+[2024-05-18 23:39:43,462][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][132]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@13ea91cb: (connection has passed maxLifetime)
+[2024-05-18 23:39:43,462][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][181]Send Buffer Size is 65,536
+[2024-05-18 23:39:43,532][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][132]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@5c7c678: (connection has passed maxLifetime)
+[2024-05-18 23:39:43,533][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][132]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@7ca5c9cb: (connection has passed maxLifetime)
+[2024-05-18 23:39:43,534][DEBUG][com.zaxxer.hikari.pool.PoolBase][HikariPool-1 connection closer][132]HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@444f0e45: (connection has passed maxLifetime)
+[2024-05-18 23:39:44,709][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][738]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@57bc7dd7
+[2024-05-18 23:39:44,734][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][285]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-18 23:39:44,734][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][249]PostgreSQL JDBC Driver 42.6.2
+[2024-05-18 23:39:44,735][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1228]  setDefaultFetchSize = 0
+[2024-05-18 23:39:44,735][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1237]  setPrepareThreshold = 5
+[2024-05-18 23:39:44,735][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][236]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-18 23:39:44,737][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][179]Receive Buffer Size is 65,536
+[2024-05-18 23:39:44,737][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][181]Send Buffer Size is 65,536
+[2024-05-18 23:39:45,475][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][738]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@597b8950
+[2024-05-18 23:39:45,498][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][285]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-18 23:39:45,498][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][249]PostgreSQL JDBC Driver 42.6.2
+[2024-05-18 23:39:45,499][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1228]  setDefaultFetchSize = 0
+[2024-05-18 23:39:45,499][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1237]  setPrepareThreshold = 5
+[2024-05-18 23:39:45,499][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][236]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-18 23:39:45,501][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][179]Receive Buffer Size is 65,536
+[2024-05-18 23:39:45,502][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][181]Send Buffer Size is 65,536
+[2024-05-18 23:39:46,192][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][738]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5d4416a7
+[2024-05-18 23:39:46,210][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][285]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-18 23:39:46,211][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][249]PostgreSQL JDBC Driver 42.6.2
+[2024-05-18 23:39:46,212][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1228]  setDefaultFetchSize = 0
+[2024-05-18 23:39:46,212][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1237]  setPrepareThreshold = 5
+[2024-05-18 23:39:46,212][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][236]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-18 23:39:46,217][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][179]Receive Buffer Size is 65,536
+[2024-05-18 23:39:46,218][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][181]Send Buffer Size is 65,536
+[2024-05-18 23:39:47,009][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][738]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1846836b
+[2024-05-18 23:39:47,035][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][285]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-18 23:39:47,037][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][249]PostgreSQL JDBC Driver 42.6.2
+[2024-05-18 23:39:47,038][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1228]  setDefaultFetchSize = 0
+[2024-05-18 23:39:47,040][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1237]  setPrepareThreshold = 5
+[2024-05-18 23:39:47,042][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][236]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-18 23:39:47,044][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][179]Receive Buffer Size is 65,536
+[2024-05-18 23:39:47,048][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][181]Send Buffer Size is 65,536
+[2024-05-18 23:39:47,363][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][738]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2ca00771
+[2024-05-18 23:39:47,380][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][285]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-18 23:39:47,381][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][249]PostgreSQL JDBC Driver 42.6.2
+[2024-05-18 23:39:47,386][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1228]  setDefaultFetchSize = 0
+[2024-05-18 23:39:47,387][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1237]  setPrepareThreshold = 5
+[2024-05-18 23:39:47,387][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][236]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-18 23:39:47,389][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][179]Receive Buffer Size is 65,536
+[2024-05-18 23:39:47,389][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][181]Send Buffer Size is 65,536
+[2024-05-18 23:39:47,580][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][738]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@29943abc
+[2024-05-18 23:39:47,601][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][285]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-18 23:39:47,602][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][249]PostgreSQL JDBC Driver 42.6.2
+[2024-05-18 23:39:47,602][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1228]  setDefaultFetchSize = 0
+[2024-05-18 23:39:47,603][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1237]  setPrepareThreshold = 5
+[2024-05-18 23:39:47,603][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][236]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-18 23:39:47,605][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][179]Receive Buffer Size is 65,536
+[2024-05-18 23:39:47,606][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][181]Send Buffer Size is 65,536
+[2024-05-18 23:39:47,755][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][738]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5498e007
+[2024-05-18 23:39:47,771][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][285]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-18 23:39:47,772][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][249]PostgreSQL JDBC Driver 42.6.2
+[2024-05-18 23:39:47,772][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1228]  setDefaultFetchSize = 0
+[2024-05-18 23:39:47,773][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1237]  setPrepareThreshold = 5
+[2024-05-18 23:39:47,773][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][236]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-18 23:39:47,775][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][179]Receive Buffer Size is 65,536
+[2024-05-18 23:39:47,777][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][181]Send Buffer Size is 65,536
+[2024-05-18 23:39:48,019][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][738]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@78697c24
+[2024-05-18 23:39:48,037][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][285]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-18 23:39:48,037][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][249]PostgreSQL JDBC Driver 42.6.2
+[2024-05-18 23:39:48,038][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1228]  setDefaultFetchSize = 0
+[2024-05-18 23:39:48,038][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1237]  setPrepareThreshold = 5
+[2024-05-18 23:39:48,039][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][236]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-18 23:39:48,040][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][179]Receive Buffer Size is 65,536
+[2024-05-18 23:39:48,041][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][181]Send Buffer Size is 65,536
+[2024-05-18 23:39:48,241][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][738]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@54de67d7
+[2024-05-18 23:39:48,253][DEBUG][org.postgresql.Driver][HikariPool-1 connection adder][285]Connecting with URL: jdbc:postgresql://localhost:5432/batch7_jpa
+[2024-05-18 23:39:48,254][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][249]PostgreSQL JDBC Driver 42.6.2
+[2024-05-18 23:39:48,254][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1228]  setDefaultFetchSize = 0
+[2024-05-18 23:39:48,255][DEBUG][org.postgresql.jdbc.PgConnection][HikariPool-1 connection adder][1237]  setPrepareThreshold = 5
+[2024-05-18 23:39:48,255][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][236]Trying to establish a protocol version 3 connection to localhost:5432
+[2024-05-18 23:39:48,257][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][179]Receive Buffer Size is 65,536
+[2024-05-18 23:39:48,258][DEBUG][org.postgresql.core.v3.ConnectionFactoryImpl][HikariPool-1 connection adder][181]Send Buffer Size is 65,536
+[2024-05-18 23:39:48,442][DEBUG][com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator][HikariPool-1 connection adder][738]HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5c17f62a
+[2024-05-18 23:40:13,468][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:40:13,468][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:40:43,481][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:40:43,482][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:41:13,496][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:41:13,496][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:41:43,499][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:41:43,499][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:42:13,506][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:42:13,506][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:42:43,517][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:42:43,517][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:43:13,527][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:43:13,527][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:43:43,542][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:43:43,542][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:44:13,556][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:44:13,556][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:44:43,559][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:44:43,559][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:45:13,569][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:45:13,569][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:45:43,574][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:45:43,574][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:46:13,586][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:46:13,586][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:46:43,602][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:46:43,602][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:47:13,605][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:47:13,606][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:47:43,610][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:47:43,610][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:48:13,624][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:48:13,624][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:48:43,637][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:48:43,637][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:49:13,644][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:49:13,644][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:49:43,652][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:49:43,652][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:50:13,665][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:50:13,665][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:50:43,681][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:50:43,681][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:51:13,692][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:51:13,692][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:51:43,703][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:51:43,703][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:52:13,711][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:52:13,711][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:52:43,715][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:52:43,715][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:53:13,720][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:53:13,722][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:53:43,734][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:53:43,734][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:54:13,749][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:54:13,749][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:54:43,760][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:54:43,761][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:55:13,775][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:55:13,775][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:55:43,783][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:55:43,783][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:56:13,790][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:56:13,790][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:56:43,793][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:56:43,793][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:57:13,799][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:57:13,799][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:57:43,809][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:57:43,809][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:58:13,811][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:58:13,811][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:58:43,822][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:58:43,822][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:59:13,827][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:59:13,830][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+[2024-05-18 23:59:43,841][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][414]HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2024-05-18 23:59:43,841][DEBUG][com.zaxxer.hikari.pool.HikariPool][HikariPool-1 housekeeper][521]HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).

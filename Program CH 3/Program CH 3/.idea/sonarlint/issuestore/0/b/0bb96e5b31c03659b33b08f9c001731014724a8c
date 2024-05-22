@@ -1,0 +1,36 @@
+
+‰
+java:S11925"FDefine a constant instead of duplicating this literal "Hello" 3 times.(ûÆÀÇ8—Áå¥ê1J$56140e43-05a8-426b-95b9-a7a79bfb9788
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹²ƒÏ8õÍ¯¤ê1J$d6f313af-f8ea-4fc8-857c-e98a0634ef00
+Š
+java:S1854U"BRemove this useless assignment to local variable "optionalLength".(şÄæèÿÿÿÿÿ8¤Áå¥ê1J$444a4aca-996f-4ce8-b6ea-bc1a65e76a70
+\
+java:S1854B":Remove this useless assignment to local variable "length".(í„Óşÿÿÿÿ8ªÓµóê1
+ƒ
+java:S1854";Remove this useless assignment to local variable "product".(¥•Ôªüÿÿÿÿ8‚Î¯¤ê1J$c9ed1bd0-a897-473f-8905-4762b431e134
+t
+java:S1481",Remove this unused "product" local variable.(¥•Ôªüÿÿÿÿ8…Î¯¤ê1J$c47fd22a-39a3-4d3c-b069-6d7880a34b68
+m	java:S106"+Replace this use of System.out by a logger.(ÂÑ‚¨8‡Î¯¤ê1J$8ca65e4d-a8dc-458f-9ac3-5ae5f970f960
+l	java:S106"+Replace this use of System.out by a logger.(›–ñ}8ˆÎ¯¤ê1J$5685ebf0-a075-4234-a763-10b4282b53fd
+r	java:S106 "+Replace this use of System.out by a logger.(¶ø‡ úÿÿÿÿ8ˆÎ¯¤ê1J$23562d1d-296c-436f-a652-55399bc926a5
+›
+java:S1602#"SRemove useless curly braces around statement and then remove useless return keyword(¹«àúÿÿÿÿ8‰Î¯¤ê1J$45928566-4b5e-49fd-813f-9f244e1de052
+m	java:S106'"+Replace this use of System.out by a logger.(áÊÀª8‰Î¯¤ê1J$a8ebb121-8b1b-4c4c-a4c1-5af350f71f6b
+m	java:S106+"+Replace this use of System.out by a logger.(˜¡–8ŠÎ¯¤ê1J$bc15d932-8cc0-4a33-922b-96c66e2616ee
+–
+java:S1602."SRemove useless curly braces around statement and then remove useless return keyword(Ù¬Õ§8‹Î¯¤ê1J$1d7ff525-70a0-46cf-a29f-b0b7267461c7
+r	java:S1062"+Replace this use of System.out by a logger.(¸¥Øİıÿÿÿÿ8‹Î¯¤ê1J$d1fb91c2-02e1-488a-86cf-09034be209d0
+r	java:S1067"+Replace this use of System.out by a logger.(‹ŞÎÃüÿÿÿÿ8‹Î¯¤ê1J$cbc500ce-e9b2-41e7-b4db-14e60fc72184
+m	java:S106;"+Replace this use of System.out by a logger.(•–8ŒÎ¯¤ê1J$d03cc11a-e145-487b-9176-028fa377d4f1
+m	java:S106>"+Replace this use of System.out by a logger.(Ş«ˆè8Î¯¤ê1J$13009c52-56b9-456e-873b-5fdaf2466bf7
+M
+java:S1481B"+Remove this unused "length" local variable.(í„Óşÿÿÿÿ8ÄÓµóê1
+l	java:S106F"+Replace this use of System.out by a logger.(ıÒ°I8ûòº¤ê1J$882df75e-61ed-4a2f-9c23-6f0a0483cab3
+m	java:S106J"+Replace this use of System.out by a logger.(¯¬ŠÀ8üòº¤ê1J$2e95d103-f24c-4def-a2f9-babd299650ea
+r	java:S106N"+Replace this use of System.out by a logger.(¿¤Àııÿÿÿÿ8ıòº¤ê1J$6c50ca12-9faa-43bd-8553-0fcf164a2c22
+r	java:S106R"+Replace this use of System.out by a logger.(‹£½¢ÿÿÿÿÿ8ÿòº¤ê1J$8e434fa4-b6d5-41db-b6cc-e3c13a57ed19
+{
+java:S1481U"3Remove this unused "optionalLength" local variable.(şÄæèÿÿÿÿÿ8±Áå¥ê1J$cf9c83bf-cab4-4f37-8f47-8dc5926767f2
+X	java:S125X"<This block of commented-out lines of code should be removed.(ã‹¢Ô8ÎÓµóê1
+U
+java:S1128"9Remove this unused import 'javax.swing.text.html.Option'.(¼Òì:8ÏÓµóê1

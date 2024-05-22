@@ -1,0 +1,11 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÚÚ¦ÿÿÿÿÿ8¬ Èóê1J$5f1d262f-24bb-4a61-8eed-c37e00204ab0
+ƒ
+java:S1612
+"@Replace this lambda with method reference 'System.out::println'.(„Ãâ8· Èóê1J$f741baa3-e63c-42ce-954f-6bcf2f048e2c
+m	java:S106
+"+Replace this use of System.out by a logger.(„Ãâ8¹ Èóê1J$75cf99a7-862b-4c1f-b801-ac58bac16edc
+¤
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'ObjIntConsumer<String>'(Ò”üÊşÿÿÿÿ8¼ Èóê1J$1e7b5d54-8dd4-46b9-9215-d52466452a58
+r	java:S106"+Replace this use of System.out by a logger.(Ò”üÊşÿÿÿÿ8½ Èóê1J$2d05f065-a8bf-4fbf-9ce1-af7ebc47b369
+r	java:S106"+Replace this use of System.out by a logger.(°è­‡üÿÿÿÿ8¾ Èóê1J$2fe22fa9-ba11-497a-b66e-a60353ba04bf

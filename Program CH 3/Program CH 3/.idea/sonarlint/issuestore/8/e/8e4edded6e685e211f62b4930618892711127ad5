@@ -1,0 +1,13 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹¹İÖ8äÄıáî1J$5d74d4a2-1aca-487e-9c4b-80a7bd35fbd9
+”
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(«óå/8îÄıáî1J$2424009f-8e51-4578-8566-1ef9e1ebdc48
+l	java:S106"+Replace this use of System.out by a logger.(¿Ä¹	8ğÄıáî1J$fff73ed2-c130-4fad-82a2-cd291efda8c3
+•
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ñÄıáî1J$6becc861-8cc8-4670-a38e-c33171ea58af
+r	java:S106"+Replace this use of System.out by a logger.(Â £ïşÿÿÿÿ8óÄıáî1J$1178f34a-3eee-4a66-93f4-23363d13b19f
+r	java:S106#"+Replace this use of System.out by a logger.(Æ«è´üÿÿÿÿ8óÄıáî1J$d3115ece-82bf-4887-9fab-e81cae912a11
+r	java:S106)"+Replace this use of System.out by a logger.(®é¾ÿûÿÿÿÿ8ôÄıáî1J$dd690a65-d026-4807-8f04-126323fb7ba8
+•
+java:S6204/"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ôÄıáî1J$c395bbcf-14e2-43b2-8a00-061245d40335
+m	java:S1060"+Replace this use of System.out by a logger.(Öı÷¿8õÄıáî1J$51aee92b-88c0-4d8f-85c2-58c6cd00e3fd
